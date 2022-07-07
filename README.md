@@ -8,10 +8,10 @@ Tensorflow 2.8
 ```
 
 # Using the CREIME Model
-```
+
 The model can downloaded from this repository as CREIME_Model.h5 
 The code snippets needed to use the model is provided in the Jupyter Notebook CREIME_Model.ipynb
-```
+
 
 # Citation
 If you use the model, please use the following bibtex entry for citation:
